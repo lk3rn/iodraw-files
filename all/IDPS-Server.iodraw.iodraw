@@ -41,6 +41,9 @@
         <mxCell id="ki0F-7AEJGLb-weWihpR-15" value="适配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="230" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ki0F-7AEJGLb-weWihpR-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;OEM Sock&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
