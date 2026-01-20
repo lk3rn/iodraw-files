@@ -25,6 +25,11 @@
             <mxPoint x="440" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ki0F-7AEJGLb-weWihpR-9" value="CAN 通信" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ki0F-7AEJGLb-weWihpR-8">
+          <mxGeometry x="0.1734" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
