@@ -13,7 +13,7 @@
         <mxCell id="ki0F-7AEJGLb-weWihpR-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="225" width="240" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="ki0F-7AEJGLb-weWihpR-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ki0F-7AEJGLb-weWihpR-4" value="IDPS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="260" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ki0F-7AEJGLb-weWihpR-5" value="IDPS-Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
