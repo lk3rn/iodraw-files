@@ -23,13 +23,16 @@
           <mxGeometry x="490" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="99lNVrTXD3DHU80CcvTO-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="673" y="280" width="100" height="40" as="geometry" />
+          <mxGeometry x="660" y="270" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="99lNVrTXD3DHU80CcvTO-9" value="NIDPS模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="516" y="350" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="99lNVrTXD3DHU80CcvTO-10" value="HIDPSS模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="666" y="350" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="99lNVrTXD3DHU80CcvTO-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1016" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
