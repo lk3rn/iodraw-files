@@ -4,11 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="99lNVrTXD3DHU80CcvTO-1" value="idps-server" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="99lNVrTXD3DHU80CcvTO-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;idps-server&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="190" width="400" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="99lNVrTXD3DHU80CcvTO-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="99lNVrTXD3DHU80CcvTO-2" target="99lNVrTXD3DHU80CcvTO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="99lNVrTXD3DHU80CcvTO-2" value="CAN-通信接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="240" width="80" height="30" as="geometry" />
+          <mxGeometry x="760" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="99lNVrTXD3DHU80CcvTO-3" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="335" width="100" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
