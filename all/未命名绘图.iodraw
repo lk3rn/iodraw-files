@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="99lNVrTXD3DHU80CcvTO-2" value="CAN-通信接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="210" width="80" height="30" as="geometry" />
+          <mxGeometry x="800" y="185" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="99lNVrTXD3DHU80CcvTO-3" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="202.5" width="80" height="45" as="geometry" />
