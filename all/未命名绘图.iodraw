@@ -22,7 +22,7 @@
         <mxCell id="99lNVrTXD3DHU80CcvTO-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;T-Box&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="160" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="99lNVrTXD3DHU80CcvTO-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="99lNVrTXD3DHU80CcvTO-7" value="lib" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="270" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="99lNVrTXD3DHU80CcvTO-9" value="NIDPS模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
